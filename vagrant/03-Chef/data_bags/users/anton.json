@@ -1,0 +1,7 @@
+{
+  "id": "anton",
+  "password": "$1$53Njthr5$iyGX4ki.9xT6k6uKYdLSH1",
+  "groups": [ "sysadmin"],
+  "uid": 2001,
+  "shell": "\/bin\/zsh"
+}
